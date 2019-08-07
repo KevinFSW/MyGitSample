@@ -11,7 +11,7 @@ int main()
 
 	printf("output %c\n", input);
 	
-	printf("aaaaaaaaaaaaaaaa\n");
+	printf("aaaaaaaaaaaaa\n");
 
 	return 0;
 }
