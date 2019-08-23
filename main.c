@@ -1,11 +1,13 @@
 #include "stdio.h"
+#include "getchar.h"
 
 int main()
 {
 	char input = 0;
 
 	printf("input:");
-	scanf("%c", &input);
+	
+	get_keyboard_char(&input);
 
 	printf("my first linux code.\n");
 
